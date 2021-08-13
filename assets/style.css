@@ -1,0 +1,20 @@
+* {
+  font-family: 'Balsamiq Sans', cursive;
+}
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #e2edff;
+}
+.subJudul {
+  font-size: 20px;
+}
+/* .judul {
+  font-size: 26px;
+  font-weight: bold;
+} */
+p {
+  font-size: 18px;
+}
+span {
+  font-size: 18px;
+}
